@@ -1,0 +1,40 @@
+body {
+<<<<<<< HEAD
+    background-color: #5d745a;
+    color: #333;
+=======
+    background-color: #8b0707;
+    color: rgb(155, 10, 10);
+>>>>>>> 369cd8d (Juan Manuel Alzate Galvez)
+    font: 16px Arial;
+}
+
+main {
+    background-color: #fff;
+<<<<<<< HEAD
+    border: 2px solid #40503e;
+=======
+    border: 2px solid #df1406;
+>>>>>>> 369cd8d (Juan Manuel Alzate Galvez)
+    margin: 20px auto;
+    padding: 10px;
+    width: 800px;
+}
+
+main h1 {
+<<<<<<< HEAD
+    background-color: #40503e;
+    border-bottom: 10px solid #5d745a;
+=======
+    background-color: #000000;
+    border-bottom: 10px solid #a81515;
+>>>>>>> 369cd8d (Juan Manuel Alzate Galvez)
+    color: #fff;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+main h3 {
+    text-align: center;
+}

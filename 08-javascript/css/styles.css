@@ -1,0 +1,64 @@
+body {
+    background-color: #9b0000;
+    color: rgb(247, 210, 0);
+    font-family: Arial;
+    font-size: 16px;
+}
+
+main {
+    background-color: #bde4f3cc;
+    border-radius: 10px 0px 10px 0px;
+    margin: 0px auto;
+    width: 80%;
+}
+
+main header h1 {
+    background-color: rgb(49, 0, 0);
+    border-bottom: 4px solid #00d9ff;
+    border-radius: 10px 0px 10px 0px;
+    color: #fff;
+    font-size: 1.6rem;
+    padding: 20px;
+    text-align: center;
+}
+
+main header h1 span a:link,
+main header h1 span a:visited {
+    color: #fff;
+    text-decoration: none;
+    float: left;
+}
+
+main section {
+    padding: 20px;
+}
+
+main section h2,
+main section h3 {
+    background-color: #fa0909;
+    border-radius: 10px 0px 10px 0px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+main section nav li {
+    list-style: none;
+    padding: 0;
+}
+main section nav li a:link,
+main section nav li a:visited {
+    background-color: rgb(255, 139, 7);
+    border-radius: 10px 0px 10px 0px;
+    color: #fff;
+    display: block;
+    margin: 2px auto;
+    padding: 10px;
+    text-decoration: none;
+    transition: all 0.4s ease-out;
+    width: 280px;
+}
+
+main section nav li a:hover {
+    color: #ff0505;
+    transform: translateX(10px);
+}
